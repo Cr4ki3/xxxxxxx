@@ -1,5 +1,5 @@
 --[[
-    © 2025 [Seu Nome ou Projeto]. Todos os direitos reservados.
+    © 2025 [PVP Menu]. Todos os direitos reservados.
 
     Este script é fornecido apenas para uso autorizado. 
     Não é permitido copiar, modificar, redistribuir, descompilar ou extrair seu conteúdo, 
